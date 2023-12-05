@@ -2,10 +2,7 @@
 
 ## Table of Contents 🗂️
 
- - [html_advanced](https://github.com/MOUAYEDSB/holbertonschool-web-development/tree/main/html_advanced)
- - [CSS_advanced](https://github.com/MOUAYEDSB/holbertonschool-web_front_end/tree/main/CSS_advanced)
-  - [developer_tools](https://github.com/MOUAYEDSB/holbertonschool-web_front_end/tree/main/developer_tools)
-   
+ - [python_async_comprehension](https://github.com/MOUAYEDSB/First_problems_solving/tree/main/Implementing_Quicksort_Algorithm_in_C)
 
 ## Contributors
 - MOUAYED SABBAGH (Developer) 
